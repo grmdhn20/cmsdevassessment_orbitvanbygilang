@@ -1,40 +1,40 @@
 # **ORBIT VAN – YOUR VAN WAY SOLUTION!** 🚐  
-🚀 Orbit Van adalah platform konfigurator van berbasis WordPress, dibangun menggunakan STAGGS Product Configurator. Website ini memungkinkan pengguna untuk menyesuaikan pilihan model, warna, fitur, dan aksesori van secara interaktif, dengan harga yang diperbarui secara real-time.
+🚀 Orbit Van is a **WordPress-based van configurator platform**, built using the **STAGGS Product Configurator**. This website allows users to customize their van model, color, features, and accessories interactively, with real-time price updates.  
 
-🌐 Live Demo: orbitgilangcmstest.drenaradigital.com
+🌐 **Live Demo:** [orbitgilangcmstest.drenaradigital.com](https://orbitgilangcmstest.drenaradigital.com)  
 
-## ✨ Fitur Utama  
+## ✨ Key Features  
 
-✅ **Van Configurator** – Pilih model van, warna, seat configuration, roof/wheelbase, serta aksesori tambahan.  
+✅ **Van Configurator** – Choose your van model, color, seat configuration, roof/wheelbase, and additional accessories.  
 
-✅ **Dynamic Image Switching** – Gambar produk berubah sesuai dengan opsi yang dipilih.  
+✅ **Dynamic Image Switching** – The product image changes according to selected options.  
 
-✅ **Live Price Calculation** – Harga diperbarui secara otomatis sesuai dengan konfigurasi.  
+✅ **Live Price Calculation** – Prices update automatically based on user selections.  
 
-✅ **Lead Generation Form** – Pengguna dapat menyimpan konfigurasi dan mengirim permintaan penawaran.  
+✅ **Lead Generation Form** – Users can save configurations and submit inquiries.  
 
-✅ **Responsif & Mobile-Friendly** – Desain optimal untuk desktop dan perangkat seluler. 
+✅ **Responsive & Mobile-Friendly** – Optimized design for desktops and mobile devices.  
 
-## 🛠 Teknologi & Tools  
+## 🛠 Technologies & Tools  
 
-- **WordPress + WooCommerce** – CMS utama & e-commerce engine  
+- **WordPress + WooCommerce** – Core CMS & e-commerce engine  
 
-- **Hostinger** – Untuk pembuatan sub-domain dan setup hosting website  
+- **Hostinger** – Used for sub-domain creation and website hosting setup  
 
-- **STAGGS Product Configurator** – Untuk konfigurasi produk interaktif  
+- **STAGGS Product Configurator** – Enables interactive product configuration  
 
-- **Elementor + Elementor Pro** – Untuk membangun halaman dengan desain modern dan fitur premium  
+- **Elementor + Elementor Pro** – Used to build modern and visually appealing pages  
 
-- **Jeg Elementor Kit** – Menyediakan template tambahan untuk Elementor  
+- **Jeg Elementor Kit** – Provides additional templates for Elementor  
 
-- **MetForm** – Untuk pembuatan dan pengelolaan form kustom dengan Elementor  
+- **MetForm** – Custom form builder for Elementor  
 
-- **LiteSpeed Cache** – Plugin caching untuk meningkatkan performa website  
+- **LiteSpeed Cache** – Caching plugin to improve website performance  
 
-- **Site Kit by Google** – Integrasi Google Analytics, Search Console, dan PageSpeed Insights  
+- **Site Kit by Google** – Integrates Google Analytics, Search Console, and PageSpeed Insights  
 
-- **All in One SEO** – Plugin optimasi SEO untuk meningkatkan visibilitas website  
+- **All in One SEO** – SEO optimization plugin to enhance website visibility  
 
-- **Image Optimizer** – Kompresi gambar otomatis untuk mempercepat loading halaman  
+- **Image Optimizer** – Automatically compresses images to speed up page loading  
 
-- **Custom CSS & JavaScript** – Untuk meningkatkan tampilan dan interaktivitas  
+- **Custom CSS & JavaScript** – Enhances UI styling and interactivity  
