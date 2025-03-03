@@ -3,12 +3,17 @@
 
 🌐 Live Demo: orbitgilangcmstest.drenaradigital.com
 
-✨ Fitur Utama
-✅ Van Configurator – Pilih model van, warna, seat configuration, roof/wheelbase, serta aksesori tambahan.
-✅ Dynamic Image Switching – Gambar produk berubah sesuai dengan opsi yang dipilih.
-✅ Live Price Calculation – Harga diperbarui secara otomatis sesuai dengan konfigurasi.
-✅ Lead Generation Form – Pengguna dapat menyimpan konfigurasi dan mengirim permintaan penawaran.
-✅ Responsif & Mobile-Friendly – Desain optimal untuk desktop dan perangkat seluler.
+## ✨ Fitur Utama  
+
+✅ **Van Configurator** – Pilih model van, warna, seat configuration, roof/wheelbase, serta aksesori tambahan.  
+
+✅ **Dynamic Image Switching** – Gambar produk berubah sesuai dengan opsi yang dipilih.  
+
+✅ **Live Price Calculation** – Harga diperbarui secara otomatis sesuai dengan konfigurasi.  
+
+✅ **Lead Generation Form** – Pengguna dapat menyimpan konfigurasi dan mengirim permintaan penawaran.  
+
+✅ **Responsif & Mobile-Friendly** – Desain optimal untuk desktop dan perangkat seluler. 
 
 🛠 Teknologi & Tools
 WordPress + WooCommerce – CMS utama & e-commerce engine
