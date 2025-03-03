@@ -15,9 +15,26 @@
 
 ✅ **Responsif & Mobile-Friendly** – Desain optimal untuk desktop dan perangkat seluler. 
 
-🛠 Teknologi & Tools
-WordPress + WooCommerce – CMS utama & e-commerce engine
-STAGGS Product Configurator – Untuk konfigurasi produk interaktif
-Elementor – Untuk membangun halaman dengan desain modern
-Custom CSS & JavaScript – Untuk meningkatkan tampilan dan interaktivitas
-PHP & MySQL – Backend dan database
+## 🛠 Teknologi & Tools  
+
+- **WordPress + WooCommerce** – CMS utama & e-commerce engine  
+
+- **Hostinger** – Untuk pembuatan sub-domain dan setup hosting website  
+
+- **STAGGS Product Configurator** – Untuk konfigurasi produk interaktif  
+
+- **Elementor + Elementor Pro** – Untuk membangun halaman dengan desain modern dan fitur premium  
+
+- **Jeg Elementor Kit** – Menyediakan template tambahan untuk Elementor  
+
+- **MetForm** – Untuk pembuatan dan pengelolaan form kustom dengan Elementor  
+
+- **LiteSpeed Cache** – Plugin caching untuk meningkatkan performa website  
+
+- **Site Kit by Google** – Integrasi Google Analytics, Search Console, dan PageSpeed Insights  
+
+- **All in One SEO** – Plugin optimasi SEO untuk meningkatkan visibilitas website  
+
+- **Image Optimizer** – Kompresi gambar otomatis untuk mempercepat loading halaman  
+
+- **Custom CSS & JavaScript** – Untuk meningkatkan tampilan dan interaktivitas  
